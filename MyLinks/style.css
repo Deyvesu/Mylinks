@@ -9,12 +9,12 @@ body{
   background: no-repeat top center/cover url(./midia/bg.jpg);
   border: 3px solid #C460AA;
   border-radius: 8px;
-  max-width: 450px;
+  max-width: 400px;
   width: 100%;
   margin: 10px auto ; 
 }
 #cont{
-  padding: 60px;
+  padding: 0px 40px 30px 40px;
   background-color: #5E2E51;
   border-radius: 6px;
 }
@@ -25,7 +25,7 @@ body{
 }
 #foto img{
   width: 120px;
-  margin: 10px;
+  margin: 5px;
 }
 
 #links{
@@ -41,7 +41,7 @@ ul{
   
   gap: 16px;
   font-size: 16px;
-  padding: 24px 0px 1px 14px;
+  padding: 24px 0px 1px;
 }
 
 ul li a{
