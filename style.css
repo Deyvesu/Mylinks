@@ -25,7 +25,8 @@ body{
 }
 #foto img{
   width: 120px;
-  margin: 5px;
+  margin: 10px;
+  padding-top: 25px;
 }
 
 #links{
@@ -41,7 +42,6 @@ ul{
   
   gap: 16px;
   font-size: 16px;
-  padding: 24px 0px 1px;
 }
 
 ul li a{
