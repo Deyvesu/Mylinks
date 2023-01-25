@@ -6,12 +6,12 @@
 }
 
 body{
-  background: no-repeat top center/cover url(./midia/bg.jpg);
+  background: center/500% url(./midia/bg.jpg);
   border: 3px solid #C460AA;
   border-radius: 8px;
   max-width: 400px;
   width: 100%;
-  margin: 10px auto ; 
+  margin: 10px auto ;
 }
 #cont{
   padding: 0px 40px 30px 40px;
