@@ -5,16 +5,16 @@
   font-weight: 200;
 }
 body{
-  background: center/500% url(./midia/bg.jpg);
-  border: 3px solid #C460AA;
+  background:center/25% url(./midia/jd9HKv.webp);
+  border: 3px solid #F2762E;
   border-radius: 8px;
   max-width: 400px;
   width: 100%;
-  margin: 10px auto ;
+  margin: 50px auto ;
 }
 #cont{
   padding: 0px 40px 30px 40px;
-  background-color: #5E2E51;
+  background-color: #7ED9A5;
   border-radius: 6px;
 }
 #foto{
@@ -46,14 +46,14 @@ ul li a{
 
   padding: 10px 24px;
 
-  background-color: #9C4C87;
-  border: 1px solid #C460AA;
+  background-color: #F25F29;
+  border: 1px solid #F2762E;
   border-radius: 8px;
 
   text-decoration: none;
   color: white;
 }
 ul li a:hover{
-  background-color: #C460AA;
-  border: 1.5px solid #9C4C87;
+  background-color: #7ED9A5;
+  border: 1.5px solid #F2EFC4;
 }
